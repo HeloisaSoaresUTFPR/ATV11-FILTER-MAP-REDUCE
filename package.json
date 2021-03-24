@@ -1,0 +1,31 @@
+{
+  "name": "atv11-filter-map-reduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeloisaSoaresUtpr/ATV11-FILTER-MAP-REDUCE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeloisaSoaresUtpr/ATV11-FILTER-MAP-REDUCE/issues"
+  },
+  "homepage": "https://github.com/HeloisaSoaresUtpr/ATV11-FILTER-MAP-REDUCE#readme",
+  "jest": {
+    "testEnvironment": "node",
+    "verbose": true
+  },
+  "dependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/node": "^7.6.3",
+    "@babel/preset-env": "^7.6.3",
+    "jest": "^24.9.0",
+    "jest-xml-matcher": "^1.1.1"
+  }
+}
